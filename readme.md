@@ -7,7 +7,7 @@
   <a href="#-Layout">Layoult</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Environment">Environment</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-License">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Participants">Participants</a>
 </p>
 <br>
@@ -30,7 +30,7 @@ Web application created in [@Rocketseat's](https://github.com/Rocketseat) first 
 
 ## 🎨 Layout
 <p align="center">
-<img src="./public/assets/creating.gif" width="60%" height="60%" /><img src="./public/assets/checking.gif" width="60%" height="60%" />
+<img src="./public/assets/creating.gif" width="50%" height="50%" /><img src="./public/assets/checking.gif" width="50%" height="50%" />
 </p>
 
 <br>
